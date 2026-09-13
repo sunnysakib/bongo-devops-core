@@ -1,2 +1,3 @@
-Optimiziation code 1
+Optimiztion code 1
 Setting A
+Setting B
