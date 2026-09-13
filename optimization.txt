@@ -1,1 +1,3 @@
 Optimiztion code 1
+Setting A
+Setting B
